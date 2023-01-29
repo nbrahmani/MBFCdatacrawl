@@ -14,3 +14,8 @@ requests
 '''
 python3 parser.py
 '''
+
+### ToDo
+'''
+* parallelize the code
+'''
